@@ -61,7 +61,6 @@
     <Compile Include="Chinese2Spell.cs" />
     <Compile Include="clsCheck.cs" />
     <Compile Include="clsConfig.cs" />
-    <Compile Include="clsDynamicEntity.cs" />
     <Compile Include="winform\clsContextMenuStrip.cs" />
     <Compile Include="clsDataTable.cs" />
     <Compile Include="clsEncryption.cs" />
